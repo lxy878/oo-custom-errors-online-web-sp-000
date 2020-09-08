@@ -1,6 +1,5 @@
 # Code Along: Custom Error Handling
 
-
 ## Objectives
 
 * Create and raise custom error messages in Ruby.
